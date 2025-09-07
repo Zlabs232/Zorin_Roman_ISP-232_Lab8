@@ -6,6 +6,9 @@
         {
             Person person = new Person();
             person.Name = "Ivan";
+
+            person.Age = 37;
+            Console.WriteLine(person.Age);
         }
     }
 }
