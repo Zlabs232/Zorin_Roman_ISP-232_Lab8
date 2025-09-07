@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateSystem", "Coordin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace", "namespace\namespace.csproj", "{D0F52421-D752-45BE-9706-E385425FED8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Task", "1_Task\1_Task.csproj", "{EBD31F1B-E3EC-4D26-9D89-AA335F707AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D0F52421-D752-45BE-9706-E385425FED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F52421-D752-45BE-9706-E385425FED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F52421-D752-45BE-9706-E385425FED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD31F1B-E3EC-4D26-9D89-AA335F707AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD31F1B-E3EC-4D26-9D89-AA335F707AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD31F1B-E3EC-4D26-9D89-AA335F707AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD31F1B-E3EC-4D26-9D89-AA335F707AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
