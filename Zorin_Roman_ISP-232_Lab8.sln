@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct", "struct\struct.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateSystem", "CoordinateSystem\CoordinateSystem.csproj", "{6E88B2D5-DE40-4AD1-B35A-CAFA33D8030F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace", "namespace\namespace.csproj", "{D0F52421-D752-45BE-9706-E385425FED8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6E88B2D5-DE40-4AD1-B35A-CAFA33D8030F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E88B2D5-DE40-4AD1-B35A-CAFA33D8030F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E88B2D5-DE40-4AD1-B35A-CAFA33D8030F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F52421-D752-45BE-9706-E385425FED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F52421-D752-45BE-9706-E385425FED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F52421-D752-45BE-9706-E385425FED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F52421-D752-45BE-9706-E385425FED8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

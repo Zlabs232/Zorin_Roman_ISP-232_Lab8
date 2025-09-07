@@ -26,7 +26,6 @@
             var p1 = new Point2D(10, 30);
             var p2 = new Point2D(13, 24);
             Console.WriteLine(p1.DistanceTo(p2));
-
         }
     }
-}
+}\
